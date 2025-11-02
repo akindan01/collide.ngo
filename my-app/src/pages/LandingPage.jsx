@@ -831,7 +831,7 @@ We work hand-in-hand with individuals and organizations who share our vision of 
             </motion.div>
 
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <div className="space-y-4">
+              <div className="space-y-2">
                 <form
           onSubmit={handleSubmit}
           className="p-6 md:p-10 shadow-lg space-y-6"
