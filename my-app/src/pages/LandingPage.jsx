@@ -784,7 +784,7 @@ We work hand-in-hand with individuals and organizations who share our vision of 
             variants={fadeInAnimation}
             initial="initial"
             transition={{ duration: 0.5 }}
-             className="text-center mb-16"
+             className="text-center mb-9"
              >
             <h2 className="text-3xl md:text-5xl font-bold text-gray-800 mb-4">Get In Touch</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
