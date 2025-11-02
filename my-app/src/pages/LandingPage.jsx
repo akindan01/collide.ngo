@@ -778,7 +778,7 @@ We work hand-in-hand with individuals and organizations who share our vision of 
         </div>
       </section>
 
-      <section id="contact" className="py-20 bg-gray-50">
+      <section id="contact" className="py-10 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
           <motion.div
             variants={fadeInAnimation}
