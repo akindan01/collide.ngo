@@ -273,7 +273,7 @@ function LandingPage() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.9, delay: 0.5 }}
           >
-            <p className="text-white text-3sm font-semibold pt-20 pl-2 tracking-wide">Give them a chance.</p>
+            <p className="text-white text-3sm font-semibold pt-12 pl-2 tracking-wide">Give them a chance.</p>
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-3 leading-tight text-white">
               Give The Child The Gift Of Education.
             </h1>
@@ -285,7 +285,7 @@ function LandingPage() {
                 Join Our Team
               </button>
               <motion.div 
-              className="flex -space-x-3 mt-2 sm:mt-0"
+              className="flex -space-x-3 mt-1 sm:mt-2"
               initial={{ opacity: 0, x: -100 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8, delay: 0.3 }}>
