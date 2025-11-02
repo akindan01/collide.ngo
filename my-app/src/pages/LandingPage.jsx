@@ -778,7 +778,7 @@ We work hand-in-hand with individuals and organizations who share our vision of 
         </div>
       </section>
 
-      <section id="contact" className="py-12 md:py-16 bg-gray-50">
+      <section id="contact" className="py-8 md:py-0 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
           <motion.div
             variants={fadeInAnimation}
@@ -786,8 +786,8 @@ We work hand-in-hand with individuals and organizations who share our vision of 
             transition={{ duration: 0.5 }}
              className="text-center mb-12"
              >
-            <h2 className="text-3xl md:text-5xl font-bold text-gray-800 mb-4">Get In Touch</h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+            <h2 className="text-3xl md:text-5xl font-bold text-black mb-4">Get In Touch</h2>
+            <p className="text-lg text-black max-w-2xl mx-auto">
               Have questions or want to get involved? We'd love to hear from you.
             </p>
           </motion.div>
