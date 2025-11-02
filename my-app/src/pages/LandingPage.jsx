@@ -778,13 +778,13 @@ We work hand-in-hand with individuals and organizations who share our vision of 
         </div>
       </section>
 
-      <section id="contact" className="m-0 auto bg-gray-50">
+      <section id="contact" className="py-12 md:py-16 bg-gray-50">
         <div className="max-w-6xl mx-auto px-4">
           <motion.div
             variants={fadeInAnimation}
             initial="initial"
             transition={{ duration: 0.5 }}
-             className="text-center mb-9"
+             className="text-center mb-12"
              >
             <h2 className="text-3xl md:text-5xl font-bold text-gray-800 mb-4">Get In Touch</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
@@ -793,7 +793,7 @@ We work hand-in-hand with individuals and organizations who share our vision of 
           </motion.div>
 
           <div 
-            className="grid md:grid-cols-2 gap-12">
+            className="grid md:grid-cols-2 gap-8">
             <motion.div
            variants={fadeInAnimation}
            transition={{ duration: 0.5, delay: 0.2 }} >
