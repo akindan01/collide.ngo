@@ -258,7 +258,7 @@ function LandingPage() {
       </nav>
       
       
-      <section id="home" className="relative overflow-hidden min-h-[60vh] sm:min-h-[70vh] md:min-h-[60vh] lg:min-h-screen">
+      <section id="home" className="relative overflow-hidden min-h-[60vh] sm:min-h-[70vh] md:min-h-[80vh] lg:min-h-screen">
         <div
           className="absolute inset-0 bg-[url('https://i.pinimg.com/736x/34/ef/ca/34efcabb3d220b171f7d92da90abf6cd.jpg')] bg-cover bg-center bg-no-repeat z-0"
           aria-hidden="true"
