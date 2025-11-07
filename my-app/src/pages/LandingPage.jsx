@@ -778,9 +778,12 @@ We work hand-in-hand with individuals and organizations who share our vision of 
         </div>
       </section>
 
-      <section id="contact" className="py-8 md:py-0 bg-gray-50 mt-2">
+      
+            <section id="contact" className="py-20 bg-gray-50 mt-2">
         <div className="max-w-6xl mx-auto px-4">
-          <div className="text-center mb-16">
+          <div
+             className="text-center mb-16"
+             >
             <h2 className="text-3xl md:text-5xl font-bold text-gray-800 mb-4">Get In Touch</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Have questions or want to get involved? We'd love to hear from you.
